@@ -58,4 +58,5 @@
 
 ### Reference
 * [Simpson](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36)
+* [Simpson - Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
 
